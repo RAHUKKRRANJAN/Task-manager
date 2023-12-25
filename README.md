@@ -21,10 +21,10 @@ Web Development
 
 ## Available Scripts:
 
-npm start: Runs the app in development mode.
-npm test: Launches the test runner.
-npm run build: Builds the app for production.
-npm run eject: Exposes full build configuration (use with caution).
+    npm start: Runs the app in development mode.
+    npm test: Launches the test runner.
+    npm run build: Builds the app for production.
+    npm run eject: Exposes full build configuration (use with caution).
 Learn More:
 Create React App documentation: https://facebook.github.io/create-react-app/docs/getting-started
 React documentation: https://reactjs.org/
