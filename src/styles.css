@@ -1,0 +1,43 @@
+/* src/styles.css */
+.main-container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .background-container {
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+.task-manager-header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0);;
+    padding: 10px 0;
+    z-index: 1; 
+  }
+  .task-manager-footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 10px 0;
+    z-index: 1;
+  }
+
+.hover-effect {
+  color: rgb(0, 0, 0); 
+  transition: color 0.3s ease; 
+}
+.hover-effect:hover {
+  color: rgba(44, 7, 119, 0.98); 
+}
